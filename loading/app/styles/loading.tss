@@ -1,0 +1,6 @@
+".container" : {
+	backgroundColor: '#999',
+	opacity: 0.6,
+  	height:Ti.UI.FILL,
+	width:Ti.UI.FILL
+}
